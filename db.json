@@ -303,50 +303,5 @@
     "rating": "18+",
     "isBookmarked": true,
     "isTrending": false
-  },
-  {
-    "title": "Whispering Hill",
-    "thumbnail": {
-      "regular": {
-        "small": "./assets/thumbnails/whispering-hill/regular/small.jpg",
-        "medium": "./assets/thumbnails/whispering-hill/regular/medium.jpg",
-        "large": "./assets/thumbnails/whispering-hill/regular/large.jpg"
-      }
-    },
-    "year": 2017,
-    "category": "Movie",
-    "rating": "E",
-    "isBookmarked": false,
-    "isTrending": false
-  },
-  {
-    "title": "112",
-    "thumbnail": {
-      "regular": {
-        "small": "./assets/thumbnails/112/regular/small.jpg",
-        "medium": "./assets/thumbnails/112/regular/medium.jpg",
-        "large": "./assets/thumbnails/112/regular/large.jpg"
-      }
-    },
-    "year": 2013,
-    "category": "TV Series",
-    "rating": "PG",
-    "isBookmarked": false,
-    "isTrending": false
-  },
-  {
-    "title": "Lone Heart",
-    "thumbnail": {
-      "regular": {
-        "small": "./assets/thumbnails/lone-heart/regular/small.jpg",
-        "medium": "./assets/thumbnails/lone-heart/regular/medium.jpg",
-        "large": "./assets/thumbnails/lone-heart/regular/large.jpg"
-      }
-    },
-    "year": 2017,
-    "category": "Movie",
-    "rating": "E",
-    "isBookmarked": true,
-    "isTrending": false
   }
 ]
