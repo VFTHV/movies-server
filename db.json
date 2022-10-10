@@ -333,5 +333,35 @@
     "rating": "PG",
     "isBookmarked": false,
     "isTrending": false
+  },
+  {
+    "title": "Lone Heart",
+    "thumbnail": {
+      "regular": {
+        "small": "./assets/thumbnails/lone-heart/regular/small.jpg",
+        "medium": "./assets/thumbnails/lone-heart/regular/medium.jpg",
+        "large": "./assets/thumbnails/lone-heart/regular/large.jpg"
+      }
+    },
+    "year": 2017,
+    "category": "Movie",
+    "rating": "E",
+    "isBookmarked": true,
+    "isTrending": false
+  },
+  {
+    "title": "Production Line",
+    "thumbnail": {
+      "regular": {
+        "small": "./assets/thumbnails/production-line/regular/small.jpg",
+        "medium": "./assets/thumbnails/production-line/regular/medium.jpg",
+        "large": "./assets/thumbnails/production-line/regular/large.jpg"
+      }
+    },
+    "year": 2018,
+    "category": "TV Series",
+    "rating": "PG",
+    "isBookmarked": false,
+    "isTrending": false
   }
 ]
